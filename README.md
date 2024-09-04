@@ -22,11 +22,11 @@ TEACH (Teacher Engagement and Attendance Check Hub) is a desktop application des
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/teach-attendance-system.git
+   git clone https://github.com/SultanIIPZ/Project_TEACH
    ```
 2. **Navigate to the Project Directory:**
    ```bash
-   cd teach-attendance-system
+   cd Project_TEACH
    ```
 3. **Install Dependencies:**
    - Ensure that your development environment supports the required libraries and dependencies.
