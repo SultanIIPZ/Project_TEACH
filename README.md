@@ -61,4 +61,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- Thank you to the developers and contributors who have made this project possible.
+ Thank you to the developers and contributors who have made this project possible:
+- Bejo, John Michael S.
+- Del Mundo, Nash  Alejandro
+- Rabusa, Rafaello Emmanuel
+- Sorongon, Von Andrei
+- Sultan, Zoltan II
+
+
+
+
